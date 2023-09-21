@@ -25,4 +25,4 @@
 
 <h5>Çalışır hali</h5>
 
-![nt](https://github.com/myagiz61/NetflixClone-ReactProject/assets/125572648/093ed968-eae1-4d96-9433-cd8bf0162e25)
+![](nt.gif)
