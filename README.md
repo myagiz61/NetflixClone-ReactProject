@@ -1,4 +1,4 @@
-# Kütüphaneler
+![nt](https://github.com/myagiz61/NetflixClone-ReactProject/assets/125572648/093ed968-eae1-4d96-9433-cd8bf0162e25)# Kütüphaneler
 
 - react router-dom
 - @splidejs/react-splide
@@ -15,6 +15,7 @@
 
 # Yapılacaklar
 
+
 - Redux ın kurulumunu yap
 - populer film versini çek ve storeye aktar
 - rastgele populer filmi seç ve "hero.jsx" de ekrana bas
@@ -24,4 +25,4 @@
 
 <h5>Çalışır hali</h5>
 
-![](nt.gif)
+![Uploading nt.gif…]()
