@@ -1,0 +1,8 @@
+.movie {
+  width: 300px;
+}
+
+.movie:hover {
+  scale: 1.03;
+  transition: all 0.3s;
+}
